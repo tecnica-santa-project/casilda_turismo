@@ -1,0 +1,4 @@
+footer{position:relative;isolation:isolate;color:#f5ede0;text-align:center;padding:clamp(3rem,10vw,6rem) clamp(1rem,4vw,2rem) calc(clamp(2rem,6vw,3rem) + env(safe-area-inset-bottom,0px));background:linear-gradient(rgba(30,18,10,.6),rgba(30,18,10,.8)),url('footer.jpg') center/cover no-repeat}
+footer .in{max-width:40rem;margin:auto;display:flex;flex-direction:column;gap:.9rem}
+footer h3{color:#fff;font-size:clamp(1.3rem,5vw,1.8rem)}footer p{margin:0}footer a{color:#f0d6ad;text-decoration:underline;padding:.4rem .25rem;display:inline-block}
+footer small{opacity:.85;border-top:1px solid rgba(245,237,224,.3);padding-top:.9rem}
